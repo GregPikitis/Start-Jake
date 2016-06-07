@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Start</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body>
+		<div class="pageContainer">
+			<div class="vertAlign">
+
+				<div class="boxContainer">
+					<div class="box">
+						<div class="boxHeader" id="boxHeader1">Projects</div>
+							<ul>
+								<li><a href="http://patorjk.com/games/snake/">Snake</a></li>
+							</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
